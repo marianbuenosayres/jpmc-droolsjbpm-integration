@@ -13,6 +13,7 @@
 
   <groupId>org.drools</groupId>
   <artifactId>droolsjbpm-integration</artifactId>
+  <version>5.4.0.Hibernate417</version>
   <packaging>pom</packaging>
 
   <name>Drools and jBPM integration multiproject</name>
