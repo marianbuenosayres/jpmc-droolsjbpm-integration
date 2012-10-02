@@ -58,4 +58,8 @@ public class MockProcessEventListener implements ProcessEventListener {
     public void afterVariableChanged(ProcessVariableChangedEvent processVariableChangedEvent) {
         System.out.println("MockProcessEventListener :: afterVariableChanged");
     }
+
+    public void onNodeException(ProcessNodeExceptionOccurredEvent event) {
+        System.out.println("MockProcessEventListener :: onNodeException");
+    }
 }
