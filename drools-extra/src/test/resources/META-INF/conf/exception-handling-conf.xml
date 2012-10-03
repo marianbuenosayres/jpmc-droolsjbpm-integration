@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:drools="http://drools.org/schema/drools-spring"
+	xsi:schemaLocation="http://drools.org/schema/drools-spring http://drools.org/schema/drools-spring.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<import resource="classpath:./META-INF/conf/test-common-conf.xml" />
+	
+	
+	<bean id="knowledgeProvider" parent="abstractKnowledgeProvider">
+		<property name="kbase">
+			<drools:kbase id="knowledgeBase" node="node1">
+				<drools:resources>
+					<drools:resource type="DRF"
+						             source="classpath:META-INF/flow/exception-handling/exception-flow.rf" />
+					<drools:resource type="DRF"
+						             source="classpath:META-INF/flow/exception-handling/exception-subflow.rf" />
+					<drools:resource type="DRF"
+						             source="classpath:META-INF/flow/exception-handling/exception-rule-flow.rf" />
+					<drools:resource type="DRL"
+						             source="classpath:META-INF/rule/exception-handling/exception-rule.drl" />
+				</drools:resources>
+			</drools:kbase>
+		</property>
+	</bean>
+</beans>

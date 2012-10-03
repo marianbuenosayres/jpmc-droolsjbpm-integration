@@ -1,0 +1,150 @@
+11-08 18:26:39 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [42102-139]
+11-08 18:26:39 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-08 18:26:39 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]
+11-19 16:42:26 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F82849DA" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:383)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:358)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:258)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:221)
+	at org.hibernate.impl.SessionFactoryImpl.close(SessionFactoryImpl.java:887)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:423)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:485)
+	at $Proxy33.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:408)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:486)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:462)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:430)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1018)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:994)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:917)
+11-19 16:42:26 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F82849DA" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:383)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:358)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:258)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:221)
+	at org.hibernate.impl.SessionFactoryImpl.close(SessionFactoryImpl.java:887)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:423)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:485)
+	at $Proxy33.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:408)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:486)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:462)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:430)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1018)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:994)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:917)
+11-19 16:42:26 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F82849DA" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:383)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:358)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:258)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:221)
+	at org.hibernate.impl.SessionFactoryImpl.close(SessionFactoryImpl.java:887)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:423)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:485)
+	at $Proxy33.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:408)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:486)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:462)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:430)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1018)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:994)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:917)
+11-19 16:42:26 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-19 16:42:26 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]
+11-19 16:42:26 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-19 16:42:26 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]
+11-19 16:42:26 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-19 16:42:26 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]
+11-19 16:42:26 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [42102-139]
+11-19 16:42:26 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-19 16:42:26 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]
+11-19 16:42:26 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [42102-139]
+11-19 16:42:26 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-19 16:42:26 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]
+11-19 16:42:26 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F82849DA [42102-139]
+11-19 16:42:26 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9FF8EDED9 [42102-139]
+11-19 16:42:26 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "VARIABLEINSTANCEINFO" not found; SQL statement:
+alter table VariableInstanceInfo drop constraint FK7BE49B9F85916989 [42102-139]

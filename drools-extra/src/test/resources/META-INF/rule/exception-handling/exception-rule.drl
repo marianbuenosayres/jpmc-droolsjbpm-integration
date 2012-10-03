@@ -1,0 +1,13 @@
+
+rule "exception rule"
+
+	ruleflow-group "exception-rule"
+	dialect "java"
+
+	when
+		message: String()
+	then
+		System.out.println("Throwing Exception from rule");
+		throw new RuntimeException("ABC");
+
+end

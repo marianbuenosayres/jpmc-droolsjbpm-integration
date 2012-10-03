@@ -1,0 +1,23 @@
+0.0.1 - 10/18/2010
+- JPM-4  Process Wide Exception Handler: ProcessExceptionHandlerTest.java 
+- JPM-15 After major 5.1.0 CR1 changes we need a clean approach on Spring Integration: JPAKnowledgeServiceBeanTest.java 
+- JPM-19 There Should be a Relation Between the Fired Rule and the Node which Activates the Ruleflow-Group: StatefulKnowledgeSessionAwareTest.java 
+- JPM-20 Drools Eats Yet Another Exception For Non-Existing Dynamic Process ID: DynamicProcessIdTest.java 
+- JPM-23 Bug in VariablePersistenceStrategy: VariablePersistenceStrategyTest.java 
+- StringVariablePersister: StringVariablePersisterTest.java 
+
+0.0.2 - 10/25/2010
+- JPM-26 Drools eats another exception when non-existing WorkItemHandler: WorkItemIdTest.java
+
+0.0.3 - 10/26/2010
+- JPM-26 Fixing bug in implementation
+
+0.0.4 - 11/12/2010
+- Fixes for transaction management
+
+0.0.6 - 09/02/2011
+- JPM-36 Serializable Support for Drools Entities
+0.0.6 - 10/7/2011
+- JPM-36: Mark attributes in SessionInfo, WorkItemInfo, ProcessInstanceInfo as transient
+0.0.7 - 10/09/2011
+- Version update
