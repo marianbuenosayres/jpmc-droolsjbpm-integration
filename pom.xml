@@ -30,7 +30,7 @@
     <repository>
       <id>artifactory-private-repository-group</id>
       <name>Plugtree</name>
-      <url>http://www.plugtree.com/artifactory/jpm-drools</url>
+      <url>https://repository-plugtree.forge.cloudbees.com/release/</url>
     </repository>
     <!-- Bootstrap repository to locate the parent pom when the parent pom has not been build locally. -->
     <repository>
