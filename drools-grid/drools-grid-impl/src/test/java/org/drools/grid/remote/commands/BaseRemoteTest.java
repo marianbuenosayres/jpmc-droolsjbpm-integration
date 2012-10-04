@@ -92,14 +92,19 @@ public abstract class BaseRemoteTest {
     @After
     public void tearDown() {
         
+        if (remoteN1 != null) {
+            remoteN1.dispose();
+        }
         
-        remoteN1.dispose();
+        if (grid1 != null) {
+            grid1.removeGridNode( gsdN1.getId() );
         
-        grid1.removeGridNode( gsdN1.getId() );
+            grid1.get(SocketService.class).close();
+        }
         
-        grid1.get(SocketService.class).close();
-        
-        server.stop();
+        if (server != null) {
+            server.stop();
+        }
         
     }
     
