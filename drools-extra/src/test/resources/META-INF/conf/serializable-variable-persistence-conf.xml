@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns="http://www.springframework.org/schema/beans"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:drools="http://drools.org/schema/drools-spring"
-	xmlns:jee="http://www.springframework.org/schema/jee"
-	xmlns:util="http://www.springframework.org/schema/util"
-	xmlns:context="http://www.springframework.org/schema/context"
-	xmlns:tx="http://www.springframework.org/schema/tx"
-	xmlns:aop="http://www.springframework.org/schema/aop"
-	xsi:schemaLocation="http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd
-		http://drools.org/schema/drools-spring http://drools.org/schema/drools-spring.xsd
-		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
-		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
-		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
-		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
-		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
-		
-	<import resource="classpath:./META-INF/conf/test-common-conf.xml" />
-	
-	
-	<bean id="knowledgeProvider" parent="abstractKnowledgeProvider">
-		<property name="kbase">
-			<drools:kbase id="knowledgeBase" node="node1">
-				<drools:resources>
-					<drools:resource type="DRF"
-						             source="classpath:META-INF/flow/variable-persistence/serializable-variable-persister-flow.rf" />
-				</drools:resources>
-			</drools:kbase>
-		</property>
-	</bean>
+<spring:beans xmlns:spring="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:drools="http://drools.org/schema/drools-spring"
+    xmlns:jee="http://www.springframework.org/schema/jee"
+    xmlns:util="http://www.springframework.org/schema/util"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xmlns:tx="http://www.springframework.org/schema/tx"
+    xmlns:aop="http://www.springframework.org/schema/aop"
+    xsi:schemaLocation="http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd
+        http://drools.org/schema/drools-spring http://drools.org/schema/drools-spring-1.2.0.xsd
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
+        http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
-</beans>
+    <spring:import resource="classpath:./META-INF/conf/test-common-conf.xml" />
+
+
+    <spring:bean id="knowledgeProvider" parent="abstractKnowledgeProvider">
+        <spring:property name="kbase">
+            <drools:kbase id="knowledgeBase" node="node1">
+                <drools:resources>
+                    <drools:resource type="DRF" source="classpath:META-INF/flow/variable-persistence/serializable-variable-persister-flow.rf" />
+                </drools:resources>
+            </drools:kbase>
+        </spring:property>
+    </spring:bean>
+
+</spring:beans>

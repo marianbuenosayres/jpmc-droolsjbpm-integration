@@ -21,3 +21,5 @@
 - JPM-36: Mark attributes in SessionInfo, WorkItemInfo, ProcessInstanceInfo as transient
 0.0.7 - 10/09/2011
 - Version update
+12/09/2012
+- Version update: Removal of VariablePersisters and creation of JPAStringIDResolverStrategy

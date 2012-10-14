@@ -54,29 +54,47 @@ public class DroolsSpringJpaManager
     }
 
     public PersistenceContext getApplicationScopedPersistenceContext() {
-        if ( this.appScopedEntityManager == null ) {
+        if ( this.appScopedEntityManager == null) {
             // Use the App scoped EntityManager if the user has provided it, and it is open.
             this.appScopedEntityManager = (EntityManager) this.env.get( EnvironmentName.APP_SCOPED_ENTITY_MANAGER );
             if ( this.appScopedEntityManager != null && !this.appScopedEntityManager.isOpen() ) {
                 throw new RuntimeException( "Provided APP_SCOPED_ENTITY_MANAGER is not open" );
             }
 
-            if ( this.appScopedEntityManager == null ) {
-                EntityManagerHolder emHolder = (EntityManagerHolder) TransactionSynchronizationManager.getResource( this.emf );
-                if ( emHolder == null ) {
-                    this.appScopedEntityManager = this.emf.createEntityManager();
-                    emHolder = new EntityManagerHolder( this.appScopedEntityManager );
-                    TransactionSynchronizationManager.bindResource( this.emf,
-                                                                    emHolder );
-                    internalAppScopedEntityManager = true;
-                } else {
-                    this.appScopedEntityManager = emHolder.getEntityManager();
+            
+        } 
+        
+        if ( this.appScopedEntityManager == null ) {
+            EntityManagerHolder emHolder = (EntityManagerHolder) TransactionSynchronizationManager.getResource( this.emf );
+            if ( emHolder == null ) {
+                this.appScopedEntityManager = this.emf.createEntityManager();
+                emHolder = new EntityManagerHolder( this.appScopedEntityManager );
+                TransactionSynchronizationManager.bindResource( this.emf,
+                                                                emHolder );
+                internalAppScopedEntityManager = true;
+            } else {
+                this.appScopedEntityManager = emHolder.getEntityManager();
+                if (!this.appScopedEntityManager.isOpen()) {
+                	TransactionSynchronizationManager.unbindResource( this.emf );
+                	this.appScopedEntityManager = this.emf.createEntityManager();
+                	emHolder = new EntityManagerHolder( this.appScopedEntityManager );
+                	TransactionSynchronizationManager.bindResource( this.emf, emHolder );
+                	internalAppScopedEntityManager = true;
                 }
-
-                this.env.set( EnvironmentName.APP_SCOPED_ENTITY_MANAGER,
-                              emHolder.getEntityManager() );
             }
+
+            this.env.set( EnvironmentName.APP_SCOPED_ENTITY_MANAGER,
+                          emHolder.getEntityManager() );
+        } else if (!this.appScopedEntityManager.isOpen()) {
+        	if ( TransactionSynchronizationManager.hasResource( this.emf ) ) {
+        		TransactionSynchronizationManager.unbindResource( this.emf );
+        	}
+        	this.appScopedEntityManager = this.emf.createEntityManager();
+        	EntityManagerHolder emHolder = new EntityManagerHolder( this.appScopedEntityManager );
+        	TransactionSynchronizationManager.bindResource( this.emf, emHolder );
+        	internalAppScopedEntityManager = true;
         }
+        
         if ( TransactionSynchronizationManager.isActualTransactionActive() ) {
             this.appScopedEntityManager.joinTransaction();
         }

@@ -65,11 +65,15 @@ public class JPAKnowledgeServiceBeanTest {
 		
 		registerWorkItemHandlers(ksession);
 		
+		assertEquals(ProcessInstance.STATE_ACTIVE, processInstance.getState());
+		
 		ksession.getWorkItemManager().completeWorkItem(1L, null);
+		
+		assertEquals(ProcessInstance.STATE_COMPLETED, processInstance.getState());
 		
 		ksession.dispose();
 		
-		assertEquals(ProcessInstance.STATE_ACTIVE, processInstance.getState());
+		
 	}
 	
 	private void registerWorkItemHandlers(StatefulKnowledgeSession ksession) {

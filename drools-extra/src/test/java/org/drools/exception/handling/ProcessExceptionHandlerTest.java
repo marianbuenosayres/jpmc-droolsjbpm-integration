@@ -69,7 +69,7 @@ public class ProcessExceptionHandlerTest {
 		try {
 			resumeProcess(sessionId, exceptionHandlingSuspendWorkItemHandlerId);
 		} catch ( Throwable t ) {
-			assertTrue( t.getCause() instanceof Error );
+			assertTrue( t.getCause() instanceof Exception );
 			assertTrue( t instanceof MyBusinessException );
 			assertTrue( t.getMessage().contains( "My Error" ) );
 			

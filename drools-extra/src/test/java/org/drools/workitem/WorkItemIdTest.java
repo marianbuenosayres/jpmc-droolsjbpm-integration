@@ -34,12 +34,11 @@ public class WorkItemIdTest {
 		
 		StatefulKnowledgeSession ksession = knowledgeProvider.newStatefulKnowledgeSession();
 		
-		sessionId = ksession.getId();
-		
 		ksession.getWorkItemManager().registerWorkItemHandler( "suspend", new SuspendWorkItemHandler() );
 		
 		ksession.startProcess( "workitem-id-flow" );
 		
+		sessionId = ksession.getId();
 	}
 	
 	@Test(expected=WorkItemHandlerNotFoundException.class)
@@ -54,9 +53,9 @@ public class WorkItemIdTest {
 		} catch ( RuntimeException e ) {
 		
 			assertTrue( e.getCause().getMessage().contains( "Could not find work item handler for " ) );
-			assertTrue( e.getCause() instanceof WorkItemHandlerNotFoundException );
+			assertTrue( e.getCause().getCause() instanceof WorkItemHandlerNotFoundException );
 			
-			WorkItemHandlerNotFoundException wihnfe = ( WorkItemHandlerNotFoundException ) e.getCause();
+			WorkItemHandlerNotFoundException wihnfe = ( WorkItemHandlerNotFoundException ) e.getCause().getCause();
 			
 			assertEquals( "noHandler", wihnfe.getWorkItemName() );
 			

@@ -56,9 +56,11 @@ public class StatefulKnowledgeSessionAwareTest {
 		
 		ksession.startProcess("session-aware-flow", params);
 		
+		int sessionId = ksession.getId();
+		
 		ksession.dispose();
 		
-		return ksession.getId();
+		return sessionId;
 	}
 	
 }

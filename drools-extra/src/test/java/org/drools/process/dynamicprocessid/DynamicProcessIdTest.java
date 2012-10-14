@@ -58,7 +58,8 @@ public class DynamicProcessIdTest {
 		} catch ( RuntimeException e ) {
 			System.out.println("\n*** message: " + e.getCause().getMessage() + "***\n");
 		
-			assertEquals( "Could not find process [ non-existent-processid ]", e.getCause().getMessage() );
+			assertEquals( "org.drools.RuntimeDroolsException: Could not find process non-existent-processid", 
+					e.getCause().getMessage() );
 		
 			assertFalse( foundProcessId );
 			
@@ -68,12 +69,10 @@ public class DynamicProcessIdTest {
 	
 	private int startProcess(Map<String, Object> params) {
 		StatefulKnowledgeSession ksession = knowledgeProvider.newStatefulKnowledgeSession();
-		
 		ksession.startProcess("dynamic-processid-main-flow", params);
-		
+		int sessionId = ksession.getId();
 		ksession.dispose();
-		
-		return ksession.getId();
+		return sessionId;
 	}
 	
 	@Before

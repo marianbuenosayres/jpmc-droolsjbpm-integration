@@ -1,14 +1,14 @@
 package org.drools.exception.handling;
 
 import org.drools.event.process.ProcessNodeExceptionOccurredEvent;
-import org.drools.workflow.instance.impl.ProcessNodeExecutionException;
+import org.jbpm.workflow.instance.WorkflowRuntimeException;
 
 /**
  * 
  * @author nicolas.loriente
  *
  */
-public class MyBusinessException extends ProcessNodeExecutionException {
+public class MyBusinessException extends WorkflowRuntimeException {
 
     private static final long serialVersionUID = 1306839952415367804L;
     private ProcessNodeExceptionOccurredEvent error;
@@ -17,14 +17,14 @@ public class MyBusinessException extends ProcessNodeExecutionException {
     private String message;
     
     public MyBusinessException(ProcessNodeExceptionOccurredEvent error) {
-        super(error.getError());
+        super(error.getError() instanceof Exception ? (Exception) error.getError() : new Exception(error.getError()));
         this.error = error;
         this.processName = error.getProcessInstance().getProcessName();
         this.nodeName = error.getNodeInstance().getNodeName();
     }
     
     public MyBusinessException(Throwable t, String processName, String nodeName) {
-    	super(t);
+        super(t instanceof Exception ? (Exception) t : new Exception(t));
     	this.processName = processName;
     	this.nodeName = nodeName;
     	this.message = t.getMessage();

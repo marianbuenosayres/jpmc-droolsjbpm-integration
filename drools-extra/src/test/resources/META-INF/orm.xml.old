@@ -7,7 +7,7 @@
 	<named-query name="ProcessInstancesWaitingForEvent">
 		<query>
 			SELECT processInstanceInfo.processInstanceId
-			FROM ProcessInstanceInfo processInstanceInfo
+			FROM org.jbpm.persistence.processinstance.ProcessInstanceInfo processInstanceInfo
 			WHERE :type in elements ( processInstanceInfo.eventTypes )
           </query>
 	</named-query>

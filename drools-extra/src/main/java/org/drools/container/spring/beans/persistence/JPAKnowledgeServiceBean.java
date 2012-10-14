@@ -1,21 +1,26 @@
 package org.drools.container.spring.beans.persistence;
 
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
+
+import javax.persistence.EntityManagerFactory;
+
 import org.drools.KnowledgeBase;
 import org.drools.KnowledgeBaseFactory;
 import org.drools.base.MapGlobalResolver;
+import org.drools.marshalling.MarshallerFactory;
+import org.drools.marshalling.ObjectMarshallingStrategy;
+import org.drools.marshalling.ObjectMarshallingStrategyAcceptor;
 import org.drools.persistence.jpa.KnowledgeStoreService;
-import org.jbpm.persistence.processinstance.VariablePersistenceStrategyFactory;
-import org.jbpm.persistence.processinstance.persisters.VariablePersister;
 import org.drools.runtime.Environment;
 import org.drools.runtime.EnvironmentName;
 import org.drools.runtime.StatefulKnowledgeSession;
 import org.springframework.beans.InvalidPropertyException;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.transaction.support.AbstractPlatformTransactionManager;
-
-import javax.persistence.EntityManagerFactory;
-import java.util.Collections;
-import java.util.Map;
 
 /**
  * <p> Spring bean that serves as a facade into Drools Session creation and reloading using persistent (JPA) 
@@ -79,15 +84,17 @@ public class JPAKnowledgeServiceBean implements InitializingBean {
 	private Environment environment;
 	private EntityManagerFactory entityManagerFactory;
 	private AbstractPlatformTransactionManager transactionManager;
-	private Map<Class<?>, Class<? extends VariablePersister>> variablePersisters = Collections.emptyMap();
+	//private Map<Class<?>, Class<? extends VariablePersister>> variablePersisters = Collections.emptyMap();
+	private Properties objectMarshallingStrategies = new Properties();
+	private ObjectMarshallingStrategy[] strategiesArray = null;
 
 	public StatefulKnowledgeSession newStatefulKnowledgeSession() {
-		createEnvironemnt();
+		createEnvironment();
 		return knowledgeStore.newStatefulKnowledgeSession( this.kbase, null, this.environment );
 	}
 	
 	public StatefulKnowledgeSession loadStatefulKnowledgeSession( final int sessionId ) {
-		createEnvironemnt();	
+		createEnvironment();	
 		return knowledgeStore.loadStatefulKnowledgeSession( sessionId, kbase, null, environment );
 	}
 
@@ -106,20 +113,70 @@ public class JPAKnowledgeServiceBean implements InitializingBean {
 			throw new InvalidPropertyException( this.getClass(), "knowledgeStore", "Cannot be NULL" );
 		}
 		
+		if (this.objectMarshallingStrategies != null && !objectMarshallingStrategies.isEmpty() ) {
+			populateStrategiesArray();
+		}		
 		// populating Variable Persisters if any are provided
-		if ( variablePersisters != null && !variablePersisters.isEmpty() ) {
+		/*if ( variablePersisters != null && !variablePersisters.isEmpty() ) {
 			for ( Map.Entry<Class<?>, Class<? extends VariablePersister>> entry : variablePersisters.entrySet() ) {
 				 VariablePersistenceStrategyFactory.getVariablePersistenceStrategy().setPersister( 
 						 entry.getKey().getName(), entry.getValue().getName() );
 			}
+		}*/
+	}
+
+	protected void populateStrategiesArray() {
+		List<ObjectMarshallingStrategy> strategies = new ArrayList<ObjectMarshallingStrategy>();
+		for (Object key : this.objectMarshallingStrategies.keySet() ) {
+			ObjectMarshallingStrategyAcceptor acceptor = MarshallerFactory.newClassFilterAcceptor(new String[] {key.toString()});
+			String id = this.objectMarshallingStrategies.getProperty(key.toString());
+			ObjectMarshallingStrategy strategy = null;
+			if ("identity".equals(id)) {
+				strategy = MarshallerFactory.newIdentityMarshallingStrategy(acceptor);
+			} else if ("serializable".equals(id)) {
+				strategy = MarshallerFactory.newSerializeMarshallingStrategy(acceptor);
+			} else {
+				try {
+					Class<?> clazz = Class.forName(id);
+					Constructor<?> constructor = clazz.getConstructor(new Class[] {ObjectMarshallingStrategyAcceptor.class} );
+					strategy = (ObjectMarshallingStrategy) constructor.newInstance(acceptor);
+				} catch (ClassNotFoundException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							"couldn't find class of type " + id, e);
+				} catch (InstantiationException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							id + " constructor with acceptor parameter threw an error while executing", e);
+				} catch (IllegalAccessException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							id + " doesn't have a public constructor", e);
+				} catch (SecurityException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							id + " constructor throws a SecurityException", e);
+				} catch (NoSuchMethodException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							id + " constructor with acceptor parameter doesn't exist", e);
+				} catch (IllegalArgumentException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							id + " constructor with acceptor parameter doesn't exist", e);
+				} catch (InvocationTargetException e) {
+					throw new InvalidPropertyException(this.getClass(), "objectMarshallingStrategies", 
+							id + " constructor with acceptor parameter doesn't exist", e);
+				}
+			}
+			strategies.add(strategy);
 		}
+		this.strategiesArray = strategies.toArray(new ObjectMarshallingStrategy[strategies.size()]);
 	}
 		
-	private void createEnvironemnt() {
+	private void createEnvironment() {
 		this.environment = KnowledgeBaseFactory.newEnvironment();
 		this.environment.set( EnvironmentName.ENTITY_MANAGER_FACTORY, this.entityManagerFactory );
 		this.environment.set( EnvironmentName.TRANSACTION_MANAGER, this.transactionManager );
-		this.environment.set( EnvironmentName.GLOBALS, new MapGlobalResolver() );		
+		this.environment.set( EnvironmentName.GLOBALS, new MapGlobalResolver() );
+		
+		if (this.strategiesArray != null && this.strategiesArray.length > 0 ) {
+			this.environment.set( EnvironmentName.OBJECT_MARSHALLING_STRATEGIES, this.strategiesArray);
+		}
 	}
 	
 	// public accessors
@@ -139,13 +196,22 @@ public class JPAKnowledgeServiceBean implements InitializingBean {
 		this.transactionManager = transactionManager;
 	}
 
-	public void setVariablePersisters(Map<Class<?>, Class<? extends VariablePersister>> variablePersisters) {
+	/*public void setVariablePersisters(Map<Class<?>, Class<? extends VariablePersister>> variablePersisters) {
 		this.variablePersisters = variablePersisters;
 	}
 
 	public Map<Class<?>, Class<? extends VariablePersister>> getVariablePersisters() {
 		return variablePersisters;
+	}*/
+	
+	public void setObjectMarshallingStrategies(Properties objectMarshallingStrategies) {
+		this.objectMarshallingStrategies = objectMarshallingStrategies;
 	}
+	
+	public Properties getObjectMarshallingStrategies() {
+		return objectMarshallingStrategies;
+	}
+	
 	public KnowledgeStoreService getKnowledgeStore() {
 		return knowledgeStore;
 	}

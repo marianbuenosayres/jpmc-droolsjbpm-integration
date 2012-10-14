@@ -49,13 +49,13 @@
 			<groupId>org.drools</groupId>
 			<artifactId>drools-spring</artifactId>
 			<version>${drools.version}</version>
-			<optional>false</optional>
+			<!--optional>false</optional-->
 
 			<!--
 				Brings Spring 2.5.5 and 2.5.6, which is not what Admin Center uses
 			-->
 
-			<exclusions>
+			<!--exclusions>
 				<exclusion>
 					<groupId>org.springframework</groupId>
 					<artifactId>spring-core</artifactId>
@@ -68,7 +68,7 @@
 					<groupId>org.springframework</groupId>
 					<artifactId>spring</artifactId>
 				</exclusion>
-			</exclusions>
+			</exclusions -->
 		</dependency>
 
 		<dependency>
@@ -154,6 +154,11 @@
     	<dependency>
     		<groupId>org.hibernate</groupId>
     		<artifactId>hibernate-core</artifactId>
+                <version>4.1.7.Final</version>
+    	</dependency>
+    	<dependency>
+    		<groupId>org.hibernate</groupId>
+    		<artifactId>hibernate-entitymanager</artifactId>
                 <version>4.1.7.Final</version>
     	</dependency>
     	
