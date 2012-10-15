@@ -13,12 +13,9 @@ http://java.sun.com/xml/ns/persistence/orm http://java.sun.com/xml/ns/persistenc
         <class>org.jbpm.persistence.processinstance.ProcessInstanceInfo</class>
         <class>org.drools.persistence.info.SessionInfo</class>
         <class>org.drools.persistence.info.WorkItemInfo</class>
+        
+        <class>org.drools.persistence.variablepersistence.StringPersistedVariable</class>
 
-        <class>org.jbpm.persistence.objects.MyEntity</class>
-        <class>org.jbpm.persistence.objects.MyEntityMethods</class>
-        <class>org.jbpm.persistence.objects.MyEntityOnlyFields</class>
-        <class>org.jbpm.persistence.objects.MyVariableExtendingSerializable</class>
-        <class>org.jbpm.persistence.processinstance.objects.NonSerializableClass</class>
         <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>	        
             <property name="hibernate.max_fetch_depth" value="3"/>

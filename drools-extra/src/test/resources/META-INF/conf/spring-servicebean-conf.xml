@@ -20,13 +20,18 @@
         <spring:property name="transactionManager" ref="transactionManager" />
         <spring:property name="objectMarshallingStrategies">
           <spring:props>
-            <spring:prop key="javax.persistence.Entity">identity</spring:prop>
-            <spring:prop key="java.lang.String">org.drools.persistence.variablepersistence.StringIDPlaceholderResolverStrategy</spring:prop>
             <spring:prop key="java.io.Serializable">serializable</spring:prop>
+            <!-- spring:prop key="javax.persistence.Entity">identity</spring:prop -->
+            <!-- spring:prop key="java.lang.String">org.drools.persistence.variablepersistence.StringIDPlaceholderResolverStrategy</spring:prop -->
             <!-- entry key="javax.persistence.Entity" value="org.drools.persistence.processinstance.persisters.JPAVariablePersister" / -->
             <!-- entry key="java.lang.String" value="com.jpmc.tss.admincenter.framework.workflow.drools.variablepersistence.StringVariablePersister" /-->
             <!-- entry key="java.io.Serializable" value="org.drools.persistence.processinstance.persisters.SerializableVariablePersister" / -->
           </spring:props>
+        </spring:property>
+        <spring:property name="processEventListeners">
+            <spring:list value-type="org.drools.event.process.ProcessEventListener">
+                <spring:bean class="org.drools.persistence.variablepersistence.StringPersisterProcessEventListener"/>
+            </spring:list>
         </spring:property>
         <spring:property name="knowledgeStore" ref="knowledgeStore"/>
         <spring:property name="kbase">
@@ -39,5 +44,3 @@
     </spring:bean>
 
 </spring:beans>
-	
-	

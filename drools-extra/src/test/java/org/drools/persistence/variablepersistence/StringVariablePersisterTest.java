@@ -1,15 +1,26 @@
 package org.drools.persistence.variablepersistence;
 
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertTrue;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 import javax.annotation.Resource;
-import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
-import javax.persistence.PersistenceContext;
 import javax.persistence.PersistenceUnit;
 
+import org.drools.KnowledgeBaseFactory;
 import org.drools.container.spring.beans.persistence.JPAKnowledgeServiceBean;
+import org.drools.event.process.ProcessEventListener;
+import org.drools.runtime.Environment;
+import org.drools.runtime.EnvironmentName;
 import org.drools.runtime.StatefulKnowledgeSession;
+import org.drools.runtime.process.ProcessInstance;
 import org.drools.workitem.handler.SuspendWorkItemHandler;
-import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
@@ -28,9 +39,6 @@ public class StringVariablePersisterTest {
 	public static int sessionId;
 	private static final String STRING_PERSISTER_PROCESS_ID = "string-variable-persister-flow";
 	
-	@PersistenceContext
-	private EntityManager entityManager;
-	
 	@PersistenceUnit
 	private EntityManagerFactory entityManagerFactory;
 	
@@ -38,177 +46,77 @@ public class StringVariablePersisterTest {
 	private JPAKnowledgeServiceBean knowledgeProvider;
 	
 	
-	@Test @Ignore
-	public void shouldGetExternalPersistedVariable() {
-		/*String myString = "my string";
+	@Test @Transactional
+	public void shouldGetPersistedVariable() {
+		String myString = "my string";
 	
 		StringPersistedVariable stringPersistedVariable = new StringPersistedVariable();
 		stringPersistedVariable.setString(myString);
 		
-		StringVariablePersister variablePersister = new StringVariablePersister();
+		StringPersisterProcessEventListener listener = new StringPersisterProcessEventListener();
 		
-		Object result = variablePersister.getExternalPersistedVariable(stringPersistedVariable, null);
+		Environment env = KnowledgeBaseFactory.newEnvironment();
+		env.set(EnvironmentName.ENTITY_MANAGER_FACTORY, entityManagerFactory);
 		
-		assertNotNull(result);
-		assertTrue(result instanceof String);
-		assertEquals(result.toString(), myString);*/
+		listener.persist("varName", 1, myString, null, env);
+		List<StringPersistedVariable> vars = listener.readVars(1, env);
+		
+		assertNotNull(vars);
+		assertFalse(vars.isEmpty());
+		assertEquals(vars.iterator().next().getString(), myString);
 	}
 	
-	@Test
+	@Test @Transactional
 	public void shouldGetNullFromExternalPersistedVariable() {		
-		/*StringVariablePersister variablePersister = new StringVariablePersister();
+		String myString = "my string";
 		
-		Object result = variablePersister.getExternalPersistedVariable(null, null);
+		StringPersistedVariable stringPersistedVariable = new StringPersistedVariable();
+		stringPersistedVariable.setString(myString);
 		
-		assertNull(result);*/
+		StringPersisterProcessEventListener listener = new StringPersisterProcessEventListener();
+		
+		Environment env = KnowledgeBaseFactory.newEnvironment();
+		env.set(EnvironmentName.ENTITY_MANAGER_FACTORY, entityManagerFactory);
+		
+		List<StringPersistedVariable> vars = listener.readVars(1, env);
+		
+		assertNotNull(vars);
+		assertTrue(vars.isEmpty());
 	}
 	
-	@Test @Ignore
-	public void shouldReturnNullFromPersistExternalVariable() {
-		/*String variableName = "myString";
+	@Test @Transactional
+	public void shouldSaveValueAfterStartProcess() {
+		
+		String variableName = "myFlowString";
 		String variableValue = "my string";
-		
-		StringVariablePersister variablePersister = new StringVariablePersister();
-		
-		VariableInstanceInfo result = variablePersister.persistExternalVariable(variableName, null, null, null);
-		
-		assertNull(result);
-		
-		VariableInstanceInfo oldValue = new VariableInstanceInfo();
-		oldValue.setPersister("");
-		
-		result = variablePersister.persistExternalVariable(variableName, variableValue, oldValue, null);
-		
-		assertNull(result);*/
-	}
-	
-	@Test(expected=RuntimeException.class) @Ignore
-	public void shouldTrhowExceptionFromPersistExternalVariable() {
-		
-		/* StringVariablePersister variablePersister = new StringVariablePersister();
-		Object variableName = new Object();
-		String variableValue = "my string";
-			
-		VariableInstanceInfo persistedVariable =  null;
-		
-		try {
-			persistedVariable = variablePersister.persistExternalVariable((String)variableName, variableValue, null, null);
-		} catch (RuntimeException e) {
-			assertNull(persistedVariable);
-			assertTrue(e instanceof ClassCastException);
-			assertEquals("java.lang.Object cannot be cast to java.lang.String", e.getMessage());
-			assertEquals("Could not persist external variable", e.getCause().getMessage());
-			
-			throw e;
-		}*/
-		
-	}
-	
-	@Test
-	@Transactional
-	@Ignore
-	public void shouldPersistVariable() {
-		/*String variableName = "myString";
-		String variableValue = "my string";
-		
-		Environment environment = KnowledgeBaseFactory.newEnvironment();
-		environment.set(EnvironmentName.ENTITY_MANAGER_FACTORY, entityManagerFactory);
-		
-		StringVariablePersister variablePersister = new StringVariablePersister();
-		
-		VariableInstanceInfo persistedVariable = variablePersister.persistExternalVariable(variableName, variableValue, null, environment);
-		
-		assertNotNull(persistedVariable.getId());
-		
-		VariableInstanceInfo persistedVariableFromDb = getPersistedVariable(variableName);
-		
-		assertTrue(persistedVariableFromDb instanceof StringPersistedVariable);
-		assertEquals(variableValue, ((StringPersistedVariable)persistedVariableFromDb).getString());*/
-	}
-	
-	@Test
-	@Transactional
-	@Ignore
-	public void shouldUpdatedPersistedVariable() {
-		/*String variableName = "myString";
-		String variableValue = "my string";
-		
-		Environment environment = KnowledgeBaseFactory.newEnvironment();
-		environment.set(EnvironmentName.ENTITY_MANAGER_FACTORY, entityManagerFactory);
-		
-		StringVariablePersister variablePersister = new StringVariablePersister();
-		
-		VariableInstanceInfo persistedVariable = variablePersister.persistExternalVariable(variableName, variableValue, null, environment);
-		
-		assertNotNull(persistedVariable.getId());
-		
-		VariableInstanceInfo persistedVariableFromDb = getPersistedVariable(variableName);
-		
-		assertTrue(persistedVariableFromDb instanceof StringPersistedVariable);
-		assertEquals(variableValue, ((StringPersistedVariable)persistedVariableFromDb).getString());
-		
-		String variableNewValue = "my new string";
-		persistedVariable = variablePersister.persistExternalVariable(variableName, variableNewValue, persistedVariableFromDb, environment);
-		
-		persistedVariableFromDb = getPersistedVariable(variableName);
-		
-		assertTrue(persistedVariableFromDb instanceof StringPersistedVariable);
-		assertEquals(variableNewValue, ((StringPersistedVariable)persistedVariableFromDb).getString());
-		*/
-	}
-	
-	@Test @Ignore
-	public void shouldPersistOriginalStringFromProcessContext() {
-		/*String variableName = "myFlowString";
-		String variableValue = "my flow string";
+		String otherVariableName = "myNonPersistentLong";
 		
 		StatefulKnowledgeSession ksession = knowledgeProvider.newStatefulKnowledgeSession();
-		
-		sessionId = ksession.getId();
-		
-		registerWorkItemHandlers(ksession);
-		
-		Map<String, Object> params = new HashMap<String, Object>();
-		params.put(variableName, variableValue);
-		
-		ksession.startProcess(STRING_PERSISTER_PROCESS_ID, params);
-		
-		StringPersistedVariable persistedVariableFromDb = (StringPersistedVariable) getPersistedVariable(variableName);
-				
-		assertEquals(variableValue, persistedVariableFromDb.getString());
-		*/
-	}
-	
-	@Test @Ignore
-	public void shouldPersistModifiedStringFromProcessContext() {
-		/* String variableName = "myFlowString";
-		String variableValue = "my NEW flow string";
-		
-		StatefulKnowledgeSession ksession = knowledgeProvider.loadStatefulKnowledgeSession(sessionId);
-		
-		registerWorkItemHandlers(ksession);
-		
-		Map<String, Object> params = new HashMap<String, Object>();
-		params.put(variableName, variableValue);
-		
-		ksession.getWorkItemManager().completeWorkItem(1L, params);
-		
-		StringPersistedVariable persistedVariableFromDb = (StringPersistedVariable) getPersistedVariable(variableName);
-		
-		assertEquals(variableValue, persistedVariableFromDb.getString());
-		*/
-	}
-	
-	private void registerWorkItemHandlers(StatefulKnowledgeSession ksession) {
 		ksession.getWorkItemManager().registerWorkItemHandler("suspend", new SuspendWorkItemHandler());
-	}
-	
-	/*private VariableInstanceInfo getPersistedVariable(String variableName) {
-		VariableInstanceInfo persistedVariableFromDb = (VariableInstanceInfo) entityManager.createQuery(
-				"SELECT vii " +
-				"FROM VariableInstanceInfo vii " +
-				"WHERE vii.name = '" + variableName + "'").getSingleResult();
+
+		StringPersisterProcessEventListener myListener = null;
+		for (ProcessEventListener listener : ksession.getProcessEventListeners()) {
+			if (listener instanceof StringPersisterProcessEventListener) {
+				myListener = (StringPersisterProcessEventListener) listener;
+				break;
+			}
+		}
 		
-		return persistedVariableFromDb;
-	}*/
+		Map<String, Object> params = new HashMap<String, Object>();
+		params.put(variableName, variableValue);
+		params.put(otherVariableName, 1l); //shouldn't save the long value
+		
+		ProcessInstance pI = ksession.startProcess(STRING_PERSISTER_PROCESS_ID, params);
+		
+		List<StringPersistedVariable> vars = myListener.readVars(pI.getId(), ksession.getEnvironment());
+		
+		assertNotNull(vars);
+		assertFalse(vars.isEmpty());
+		assertEquals(vars.size(), 1); //shouldn't have saved the long value
+		
+		StringPersistedVariable var = vars.iterator().next();
+		assertEquals(var.getName(), variableName);
+		assertEquals(var.getString(), variableValue);
+		
+	}
 }

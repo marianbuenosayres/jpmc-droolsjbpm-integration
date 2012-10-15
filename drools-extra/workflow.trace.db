@@ -1058,3 +1058,1962 @@ alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
 10-14 03:49:24 jdbc[2]: SQLException
 org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
 alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:21 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:34 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:34 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:34 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:34 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:34 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 11:24:34 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:47:48 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:47:53 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:47:55 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:47:57 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:47:59 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:01 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:03 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:05 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:07 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:10 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:12 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:14 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:17 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:19 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:21 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:23 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:25 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:48:27 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:31 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:43 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:43 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:43 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:43 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:43 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:49:43 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:22 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:32 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:32 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:32 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:32 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:32 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 13:50:32 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:12:41 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:12:50 jdbc[11]: Connection not closed
+java.lang.Exception: Stack Trace
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:95)
+	at org.h2.Driver.connect(Driver.java:62)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:173)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:164)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:149)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:119)
+	at org.hibernate.ejb.connection.InjectedDataSourceConnectionProvider.getConnection(InjectedDataSourceConnectionProvider.java:70)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:281)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.jdbc.internal.proxy.ConnectionProxyHandler.extractPhysicalConnection(ConnectionProxyHandler.java:82)
+	at org.hibernate.engine.jdbc.internal.proxy.ConnectionProxyHandler.continueInvocation(ConnectionProxyHandler.java:138)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractProxyHandler.invoke(AbstractProxyHandler.java:81)
+	at $Proxy26.prepareStatement(Unknown Source)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$5.doPrepare(StatementPreparerImpl.java:147)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$StatementPreparationTemplate.prepareStatement(StatementPreparerImpl.java:166)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl.prepareQueryStatement(StatementPreparerImpl.java:145)
+	at org.hibernate.loader.Loader.prepareQueryStatement(Loader.java:1720)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1697)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:832)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:293)
+	at org.hibernate.loader.Loader.doList(Loader.java:2382)
+	at org.hibernate.loader.Loader.doList(Loader.java:2368)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2198)
+	at org.hibernate.loader.Loader.list(Loader.java:2193)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:470)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:355)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:195)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1244)
+	at org.hibernate.internal.QueryImpl.list(QueryImpl.java:101)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:257)
+	at org.drools.persistence.variablepersistence.StringPersisterProcessEventListener.persist(StringPersisterProcessEventListener.java:92)
+	at org.drools.persistence.variablepersistence.StringVariablePersisterTest.shouldGetPersistedVariable(StringVariablePersisterTest.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:82)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:72)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:231)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:174)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:236)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:134)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:103)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:74)
+10-15 14:12:50 jdbc[12]: Connection not closed
+java.lang.Exception: Stack Trace
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:95)
+	at org.h2.Driver.connect(Driver.java:62)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:154)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:173)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:164)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:149)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:119)
+	at org.hibernate.ejb.connection.InjectedDataSourceConnectionProvider.getConnection(InjectedDataSourceConnectionProvider.java:70)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:281)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.jdbc.internal.proxy.ConnectionProxyHandler.extractPhysicalConnection(ConnectionProxyHandler.java:82)
+	at org.hibernate.engine.jdbc.internal.proxy.ConnectionProxyHandler.continueInvocation(ConnectionProxyHandler.java:138)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractProxyHandler.invoke(AbstractProxyHandler.java:81)
+	at $Proxy26.prepareStatement(Unknown Source)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$5.doPrepare(StatementPreparerImpl.java:147)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$StatementPreparationTemplate.prepareStatement(StatementPreparerImpl.java:166)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl.prepareQueryStatement(StatementPreparerImpl.java:145)
+	at org.hibernate.loader.Loader.prepareQueryStatement(Loader.java:1720)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1697)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:832)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:293)
+	at org.hibernate.loader.Loader.doList(Loader.java:2382)
+	at org.hibernate.loader.Loader.doList(Loader.java:2368)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2198)
+	at org.hibernate.loader.Loader.list(Loader.java:2193)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:470)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:355)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:195)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1244)
+	at org.hibernate.internal.QueryImpl.list(QueryImpl.java:101)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:257)
+	at org.drools.persistence.variablepersistence.StringPersisterProcessEventListener.readVars(StringPersisterProcessEventListener.java:65)
+	at org.drools.persistence.variablepersistence.StringVariablePersisterTest.shouldGetNullFromExternalPersistedVariable(StringVariablePersisterTest.java:82)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:82)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:72)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:231)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:174)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:236)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:134)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:103)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:74)
+10-15 14:12:51 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:12:51 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:12:52 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:12:52 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:12:52 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:12:52 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:02 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:12 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:12 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:12 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:12 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:12 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:14:12 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:15:39 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:15:49 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:15:49 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:15:49 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:15:49 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:15:49 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:15:49 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:10 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:860)
+	at org.h2.jdbc.JdbcStatement.getWarnings(JdbcStatement.java:263)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:66)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.getWarnings(JdbcConnection.java:563)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.handleAndClearWarnings(SqlExceptionHelper.java:258)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logAndClearWarnings(SqlExceptionHelper.java:244)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.release(SuppliedConnectionProviderConnectionHelper.java:71)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.release(DatabaseExporter.java:82)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:391)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:18 jdbc[46]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.clearWarnings(JdbcConnection.java:576)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.handleAndClearWarnings(SqlExceptionHelper.java:265)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logAndClearWarnings(SqlExceptionHelper.java:244)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.release(SuppliedConnectionProviderConnectionHelper.java:71)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.release(DatabaseExporter.java:82)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:391)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:24:20 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:20 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:20 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:20 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:20 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:24:20 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:44 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:54 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:54 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:54 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:54 jdbc[8]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:54 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:27:54 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:31:56 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90098-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.store.PageStore.checkOpen(PageStore.java:1534)
+	at org.h2.store.PageStore.logUndo(PageStore.java:796)
+	at org.h2.index.PageBtreeLeaf.freeRecursive(PageBtreeLeaf.java:226)
+	at org.h2.index.PageBtreeIndex.removeAllRows(PageBtreeIndex.java:263)
+	at org.h2.index.PageBtreeIndex.remove(PageBtreeIndex.java:244)
+	at org.h2.index.BaseIndex.removeChildrenAndResources(BaseIndex.java:166)
+	at org.h2.engine.Database.removeSchemaObject(Database.java:1575)
+	at org.h2.table.Table.removeIndexOrTransferOwnership(Table.java:925)
+	at org.h2.constraint.ConstraintReferential.removeChildrenAndResources(ConstraintReferential.java:245)
+	at org.h2.engine.Database.removeSchemaObject(Database.java:1575)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:44)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.getWarnings(JdbcConnection.java:563)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.handleAndClearWarnings(SqlExceptionHelper.java:258)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logAndClearWarnings(SqlExceptionHelper.java:244)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.release(SuppliedConnectionProviderConnectionHelper.java:71)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.release(DatabaseExporter.java:82)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:391)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:34:18 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.clearWarnings(JdbcConnection.java:576)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.handleAndClearWarnings(SqlExceptionHelper.java:265)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logAndClearWarnings(SqlExceptionHelper.java:244)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.release(SuppliedConnectionProviderConnectionHelper.java:71)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.release(DatabaseExporter.java:82)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:391)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy22.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 14:35:33 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:38:55 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 14:59:09 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:03:56 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:04 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:16 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:16 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:16 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:16 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:16 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:10:16 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:18:59 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:19:12 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:19:12 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:19:12 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:19:12 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:19:12 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:20:28 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 15:20:37 jdbc[51]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.createStatement(JdbcConnection.java:165)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.<init>(DatabaseExporter.java:54)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:367)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90098-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.store.PageStore.checkOpen(PageStore.java:1534)
+	at org.h2.store.PageStore.logUndo(PageStore.java:796)
+	at org.h2.index.PageBtreeLeaf.freeRecursive(PageBtreeLeaf.java:226)
+	at org.h2.index.PageBtreeIndex.removeAllRows(PageBtreeIndex.java:263)
+	at org.h2.index.PageBtreeIndex.remove(PageBtreeIndex.java:244)
+	at org.h2.index.BaseIndex.removeChildrenAndResources(BaseIndex.java:166)
+	at org.h2.engine.Database.removeSchemaObject(Database.java:1575)
+	at org.h2.table.Table.removeIndexOrTransferOwnership(Table.java:925)
+	at org.h2.constraint.ConstraintReferential.removeChildrenAndResources(ConstraintReferential.java:245)
+	at org.h2.engine.Database.removeSchemaObject(Database.java:1575)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:44)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:886)
+	at org.h2.jdbc.JdbcStatement.checkClosedForWrite(JdbcStatement.java:871)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:116)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.getWarnings(JdbcConnection.java:563)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.handleAndClearWarnings(SqlExceptionHelper.java:258)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logAndClearWarnings(SqlExceptionHelper.java:244)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.release(SuppliedConnectionProviderConnectionHelper.java:71)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.release(DatabaseExporter.java:82)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:391)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:37 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.clearWarnings(JdbcConnection.java:576)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.handleAndClearWarnings(SqlExceptionHelper.java:265)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logAndClearWarnings(SqlExceptionHelper.java:244)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.release(SuppliedConnectionProviderConnectionHelper.java:71)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.release(DatabaseExporter.java:82)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:391)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:38 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:38 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:38 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 15:20:38 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 16:31:32 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 16:31:43 jdbc[50]: SQLException
+org.h2.jdbc.JdbcSQLException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.message.DbException.get(DbException.java:133)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1348)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1323)
+	at org.h2.jdbc.JdbcConnection.createStatement(JdbcConnection.java:165)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.<init>(DatabaseExporter.java:54)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:367)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 16:31:43 jdbc[4]: SQLException
+org.h2.jdbc.JdbcSQLException: Constraint "FKB0E5621F7665489A" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [90057-139]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:327)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.command.ddl.AlterTableDropConstraint.update(AlterTableDropConstraint.java:39)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:70)
+	at org.h2.command.Command.executeUpdate(Command.java:199)
+	at org.h2.jdbc.JdbcStatement.executeUpdateInternal(JdbcStatement.java:124)
+	at org.h2.jdbc.JdbcStatement.executeUpdate(JdbcStatement.java:109)
+	at org.hibernate.tool.hbm2ddl.DatabaseExporter.export(DatabaseExporter.java:64)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.perform(SchemaExport.java:418)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.execute(SchemaExport.java:372)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:318)
+	at org.hibernate.tool.hbm2ddl.SchemaExport.drop(SchemaExport.java:314)
+	at org.hibernate.internal.SessionFactoryImpl.close(SessionFactoryImpl.java:1345)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.close(EntityManagerFactoryImpl.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.invokeProxyMethod(AbstractEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean$ManagedEntityManagerFactoryInvocationHandler.invoke(AbstractEntityManagerFactoryBean.java:510)
+	at $Proxy25.close(Unknown Source)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy(AbstractEntityManagerFactoryBean.java:443)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:487)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:463)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:431)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1048)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1022)
+	at org.springframework.context.support.AbstractApplicationContext$3.run(AbstractApplicationContext.java:940)
+10-15 16:31:43 jdbc[3]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 16:31:43 jdbc[6]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 16:31:43 jdbc[5]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
+10-15 16:31:43 jdbc[7]: SQLException
+org.h2.jdbc.JdbcSQLException: Table "EVENTTYPES" not found; SQL statement:
+alter table EventTypes drop constraint FKB0E5621F7665489A [42102-139]
